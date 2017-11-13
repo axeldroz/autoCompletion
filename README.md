@@ -1,2 +1,2 @@
 # autoCompletion
-Programme en C++ d'auto-completion destiné à un GPS.
+Auto completion program for GPS target built in C++.
